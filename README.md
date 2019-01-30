@@ -1,3 +1,3 @@
-# Learn JavaSript Number
+# Learn JavaScript Number
 
-Learn JavaSript Number
+Learn JavaScript Number

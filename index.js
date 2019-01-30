@@ -30,4 +30,4 @@ array1.pop();
 console.log(array1);
 
 let array2 = [3, 6, 7];
-let array3 = [5, 'eat', 'food', 7, 34, 54, 7, 8, 4];
+let array3 = [7, 34, 54, 7, 8, 4];
